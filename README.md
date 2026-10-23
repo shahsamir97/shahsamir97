@@ -1,3 +1,22 @@
+<div align="center">
+
+### ⚡ Engineering Beyond the Screen
+
+```python
+class MyJourney:
+    foundation = "4+ years of Android Engineering"
+    expanding_into = ["Full-Stack", "Python", "AI"]
+
+    def mission(self):
+        return "From building apps to engineering intelligent systems."
+```
+
+**📱 Mobile Engineering → 🌐 Full-Stack → 🧠 AI Engineering**
+
+*The platform is evolving. The engineering mindset stays.*
+
+</div>
+
 ## 🛠️ Tech Stack
 
 ### 📱 Core Expertise — Android Development
