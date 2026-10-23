@@ -1,16 +1,27 @@
-### Hi there 👋
+## 🛠️ Tech Stack
 
-<!--
-**shahsamir97/shahsamir97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📱 Core Expertise — Android & Mobile Development
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,flutter,dart,swift,firebase,gradle" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frameworks & Architecture:** Jetpack Compose, Kotlin Multiplatform, MVVM, MVI, Clean Architecture, Coroutines, Flow, Hilt, Dagger, Room, Retrofit
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,postman" />
+</p>
+
+### 🚀 Currently Building With — Full-Stack, Python & AI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,vite,tailwind,html,css,fastapi,postgres,sqlite" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,vscode" />
+</p>
+
+**AI & Data Engineering:** OpenAI API, LangChain, LangGraph, RAG, Pandas, Apache Airflow, Apache Kafka, PySpark
+
+**AI-Assisted Development:** GitHub Copilot, Claude
