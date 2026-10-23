@@ -3,11 +3,24 @@
 ### 📱 Core Expertise — Android Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,firebase,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" height="45" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" height="45" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" height="45" />
+  <img src="https://skillicons.dev/icons?i=gradle" title="Gradle" height="45" />
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="45" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="45" />
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" height="45" />
 </p>
 
 ### 🚀 Currently Building With — Full-Stack & AI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,tailwind,fastapi,postgres,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" height="45" />
+  <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" height="45" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" height="45" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="45" />
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" height="45" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="45" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" height="45" />
 </p>
