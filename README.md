@@ -35,14 +35,8 @@ class MyJourney:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" title="Python" height="45" />
-    <!-- LangChain -->
 <img src="https://cdn.simpleicons.org/langchain" 
      alt="LangChain" title="LangChain" width="45" height="45" />
-
-<!-- RAG (representative icon) -->
-<img src="https://api.iconify.design/lucide:database-zap.svg"
-     alt="RAG" title="Retrieval-Augmented Generation"
-     width="45" height="45" />
   <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" height="45" />
   <img src="https://skillicons.dev/icons?i=react" title="React" height="45" />
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="45" />
