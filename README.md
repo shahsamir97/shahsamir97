@@ -1,7 +1,5 @@
 <div align="center">
 
-### ⚡ Engineering Beyond the Screen
-
 **📱 Mobile Engineering → 🌐 Full-Stack → 🧠 AI Engineering**
 
 *The platform is evolving. The engineering mindset stays.*
@@ -22,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" height="45" />
 </p>
 
-### 🚀 Currently Building With — Full-Stack & AI
+### 🚀 Expanding My Expertise — Full-Stack & AI Engineering
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" title="Python" height="45" />
