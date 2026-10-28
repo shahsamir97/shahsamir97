@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 
-📱 Core Expertise — Mobile Development
+### 📱 Core Expertise — Mobile Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" height="45" />
